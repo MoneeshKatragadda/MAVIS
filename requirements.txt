@@ -1,0 +1,12 @@
+torch
+torchaudio
+librosa
+numpy
+pandas
+spacy
+moviepy
+ffmpeg-python
+diffusers
+transformers
+accelerate
+scipy
