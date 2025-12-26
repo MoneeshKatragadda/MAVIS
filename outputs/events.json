@@ -1,0 +1,515 @@
+[
+  {
+    "actor": "Rain",
+    "action": "drum",
+    "target": "rhythm",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 0
+  },
+  {
+    "actor": "People",
+    "action": "sit",
+    "target": "at booth",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 1
+  },
+  {
+    "actor": "Silas",
+    "action": "take",
+    "target": "sip",
+    "emotion": "positive",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 2
+  },
+  {
+    "actor": "Julian",
+    "action": "swallow",
+    "target": "bobbing",
+    "emotion": "positive",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 3
+  },
+  {
+    "actor": "Julian",
+    "action": "take",
+    "target": "subways",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 3
+  },
+  {
+    "actor": "Julian",
+    "action": "swear",
+    "target": "scene",
+    "emotion": "positive",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 3
+  },
+  {
+    "actor": "Lena",
+    "action": "roll",
+    "target": "eyes",
+    "emotion": "positive",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 4
+  },
+  {
+    "actor": "Lena",
+    "action": "hide",
+    "target": "under napkin",
+    "emotion": "positive",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 4
+  },
+  {
+    "actor": "Julian",
+    "action": "trigger",
+    "target": "near station",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 4
+  },
+  {
+    "actor": "Lena",
+    "action": "scramble",
+    "target": "signal",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 4
+  },
+  {
+    "actor": "Julian",
+    "action": "hiss",
+    "target": "scene",
+    "emotion": "positive",
+    "dialogue": "See?",
+    "type": "action",
+    "scene_id": 5
+  },
+  {
+    "actor": "The Group",
+    "action": "do",
+    "target": "this",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 5
+  },
+  {
+    "actor": "Julian",
+    "action": "like",
+    "target": "way",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 5
+  },
+  {
+    "actor": "Cook",
+    "action": "look",
+    "target": "at we",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 5
+  },
+  {
+    "actor": "Silas",
+    "action": "glance",
+    "target": "toward counter",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 6
+  },
+  {
+    "actor": "Man",
+    "action": "flip",
+    "target": "with aggression",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 6
+  },
+  {
+    "actor": "Cook",
+    "action": "look",
+    "target": "at you",
+    "emotion": "positive",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 6
+  },
+  {
+    "actor": "Julian",
+    "action": "sweat",
+    "target": "scene",
+    "emotion": "positive",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 6
+  },
+  {
+    "actor": "Julian",
+    "action": "breathe",
+    "target": "scene",
+    "emotion": "negative",
+    "dialogue": "You can't breathe!",
+    "type": "action",
+    "scene_id": 7
+  },
+  {
+    "actor": "Julian",
+    "action": "whisper",
+    "target": "scene",
+    "emotion": "positive",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 7
+  },
+  {
+    "actor": "Julian",
+    "action": "have",
+    "target": "idea",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 7
+  },
+  {
+    "actor": "Board",
+    "action": "find",
+    "target": "scene",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 7
+  },
+  {
+    "actor": "Julian",
+    "action": "take",
+    "target": "files",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 7
+  },
+  {
+    "actor": "Board",
+    "action": "find",
+    "target": "scene",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 8
+  },
+  {
+    "actor": "Lena",
+    "action": "interrupt",
+    "target": "scene",
+    "emotion": "negative",
+    "dialogue": "If the Board finds out,",
+    "type": "action",
+    "scene_id": 8
+  },
+  {
+    "actor": "The Group",
+    "action": "move",
+    "target": "to island",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 8
+  },
+  {
+    "actor": "Julian",
+    "action": "hesitate",
+    "target": "scene",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 9
+  },
+  {
+    "actor": "Julian",
+    "action": "speak",
+    "target": "scene",
+    "emotion": "neutral",
+    "dialogue": "Is the money ready?",
+    "type": "action",
+    "scene_id": 9
+  },
+  {
+    "actor": "Silas",
+    "action": "reach",
+    "target": "into coat",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 10
+  },
+  {
+    "actor": "Silas",
+    "action": "hand",
+    "target": "envelope",
+    "emotion": "positive",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 10
+  },
+  {
+    "actor": "Silas",
+    "action": "place",
+    "target": "on table",
+    "emotion": "positive",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 10
+  },
+  {
+    "actor": "Silas",
+    "action": "say",
+    "target": "scene",
+    "emotion": "negative",
+    "dialogue": "Life is a series of trades, You,",
+    "type": "action",
+    "scene_id": 11
+  },
+  {
+    "actor": "Julian",
+    "action": "drop",
+    "target": "to gravel",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 11
+  },
+  {
+    "actor": "Julian",
+    "action": "let",
+    "target": "scene",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 11
+  },
+  {
+    "actor": "Julian",
+    "action": "be sure",
+    "target": "scene",
+    "emotion": "positive",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 11
+  },
+  {
+    "actor": "Julian",
+    "action": "want",
+    "target": "scene",
+    "emotion": "positive",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 11
+  },
+  {
+    "actor": "Julian",
+    "action": "look",
+    "target": "at Lenat",
+    "emotion": "positive",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 12
+  },
+  {
+    "actor": "Julian",
+    "action": "slide",
+    "target": "across tabletop",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 13
+  },
+  {
+    "actor": "Silas",
+    "action": "swap",
+    "target": "for envelope",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 13
+  },
+  {
+    "actor": "Silas",
+    "action": "command",
+    "target": "scene",
+    "emotion": "negative",
+    "dialogue": "Go out the back,",
+    "type": "action",
+    "scene_id": 14
+  },
+  {
+    "actor": "Engine",
+    "action": "run",
+    "target": "scene",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 14
+  },
+  {
+    "actor": "Driversll",
+    "action": "take",
+    "target": "to house",
+    "emotion": "positive",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 14
+  },
+  {
+    "actor": "Julian",
+    "action": "grab",
+    "target": "envelope",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 15
+  },
+  {
+    "actor": "Julian",
+    "action": "speak",
+    "target": "scene",
+    "emotion": "neutral",
+    "dialogue": "What happens to these files?",
+    "type": "action",
+    "scene_id": 15
+  },
+  {
+    "actor": "Lena",
+    "action": "snap",
+    "target": "shut",
+    "emotion": "neutral",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 16
+  },
+  {
+    "actor": "Julian",
+    "action": "reach",
+    "target": "house",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 16
+  },
+  {
+    "actor": "Julian",
+    "action": "disappear",
+    "target": "through doors",
+    "emotion": "neutral",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 17
+  },
+  {
+    "actor": "Silas",
+    "action": "open",
+    "target": "briefcase",
+    "emotion": "neutral",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 17
+  },
+  {
+    "actor": "Silas",
+    "action": "speak",
+    "target": "scene",
+    "emotion": "neutral",
+    "dialogue": "Well?",
+    "type": "action",
+    "scene_id": 18
+  },
+  {
+    "actor": "Lena",
+    "action": "ask",
+    "target": "scene",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 18
+  },
+  {
+    "actor": "Lena",
+    "action": "speak",
+    "target": "scene",
+    "emotion": "neutral",
+    "dialogue": "Was the briefcase worth the gray hairs?",
+    "type": "action",
+    "scene_id": 18
+  },
+  {
+    "actor": "Silas",
+    "action": "close",
+    "target": "with click",
+    "emotion": "positive",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 19
+  },
+  {
+    "actor": "Silas",
+    "action": "think",
+    "target": "scene",
+    "emotion": "negative",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 19
+  },
+  {
+    "actor": "Lena",
+    "action": "pause",
+    "target": "scene",
+    "emotion": "positive",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 20
+  },
+  {
+    "actor": "Lena",
+    "action": "speak",
+    "target": "scene",
+    "emotion": "neutral",
+    "dialogue": "Wait, really?",
+    "type": "action",
+    "scene_id": 20
+  },
+  {
+    "actor": "Silas",
+    "action": "stand",
+    "target": "scene",
+    "emotion": "positive",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 21
+  },
+  {
+    "actor": "Cook",
+    "action": "make",
+    "target": "omelet",
+    "emotion": "positive",
+    "dialogue": null,
+    "type": "action",
+    "scene_id": 21
+  }
+]

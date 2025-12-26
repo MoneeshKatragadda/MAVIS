@@ -1,12 +1,6 @@
-torch
-torchaudio
-librosa
+spacy==3.7.2
+en-core-web-sm==3.7.1
+gTTS                          # Google TTS (offline capable)
+pydub                         # Audio stitching
+pygame                        # Audio playback
 numpy
-pandas
-spacy
-moviepy
-ffmpeg-python
-diffusers
-transformers
-accelerate
-scipy

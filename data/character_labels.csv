@@ -1,0 +1,379 @@
+sentence,noun,is_character
+"The fire said get away.","fire",1
+"The man shouted.","man",1
+"The tree stood tall.","tree",0
+"The robot answered the question.","robot",1
+"The chair was broken.","chair",0
+"The dragon spoke softly.","dragon",1
+"The wind howled.","wind",1
+"The wall was cold.","wall",0
+"The tree began to speak","tree",1
+"The man in the poster was handsome","man",0
+"The woman walked through the street","woman",1
+"The king made a declaration","king",1
+"The king's statue was beautiful","king",0
+"The wind was steady","wind",0
+"The donkey answered.","donkey",1
+"The donkey statue was heavy.","donkey",0
+"Arthur smiled.","Arthur",1
+"Moneesh is going to the market","Moneesh",1
+"The mother scolded her child","mother",1
+"The starship's AI argued with the captain.","AI",1
+"The AI's core was located in the basement.","AI",0
+"The giant stomped toward the beanstalk.","giant",1
+"The giant's footprints were filled with rain.","giant",0
+"The android dreamed of electric sheep.","android",1
+"The android's arm was sparking.","android",0
+"The magic carpet refused to fly.","carpet",1
+"The carpet was woven from silk.","carpet",0
+"The nebula watched the travelers pass.","nebula",1
+"The nebula was a swirl of purple gas.","nebula",0
+"The frog prince begged for a kiss.","frog",1
+"The frog jumped into the pond.","frog",0
+"The spaceship groaned under the pressure.","spaceship",1
+"The spaceship was built in the year 2300.","spaceship",0
+"The unicorn bowed its head.","unicorn",1
+"The unicorn's horn was made of ivory.","unicorn",0
+"The holographic doctor checked the pulse.","hologram",1
+"The hologram flickered and disappeared.","hologram",0
+"The enchanted mirror reflected the truth.","mirror",1
+"The mirror was hung in the queen's room.","mirror",0
+"The Martian offered a hand in peace.","Martian",1
+"The Martian landscape was red and barren.","Martian",0
+"The clock struck midnight and laughed.","clock",1
+"The clock was ten minutes fast.","clock",0
+"The goblin bartered for the gold.","goblin",1
+"The goblin's cave was cold and damp.","goblin",0
+"The satellite transmitted a warning.","satellite",1
+"The satellite orbited the planet.","satellite",0
+"The beast growled at the intruders.","beast",1
+"The beast's roar was heard for miles.","beast",0
+"The potion bubbled and spoke a name.","potion",1
+"The potion was stored in a glass vial.","potion",0
+"The drone scanned the area for life.","drone",1
+"The drone's battery was nearly dead.","drone",0
+"The willow tree wept for the lost knight.","willow",1
+"The willow tree provided shade.","willow",0
+"The alien ship hummed a low melody.","ship",1
+"The ship was shaped like a saucer.","ship",0
+"The knight's armor complained with every step.","armor",1
+"The armor was polished to a shine.","armor",0
+"The cybernetic dog barked at the mailman.","dog",1
+"The dog's collar was made of leather.","dog",0
+"The bridge demanded a toll.","bridge",1
+"The bridge spanned the wide river.","bridge",0
+"The comet waved its tail across the sky.","comet",1
+"The comet was visible every seventy years.","comet",0
+"The siren sang a deadly song.","siren",1
+"The siren's rocks were sharp and jagged.","siren",0
+"Ajay decided to leave early.","Ajay",1
+"The portrait of Ajay hung in the hall.","Ajay",0
+"The baker kneaded the dough.","baker",1
+"The baker's shop was closed for the winter.","baker",0
+"The wolf lunged at the hunter.","wolf",1
+"A wolf's howl echoed in the distance.","wolf",0
+"The ocean roared in anger.","ocean",1
+"The ocean was a deep shade of blue.","ocean",0
+"The car groaned as it climbed the hill.","car",1
+"The car was parked in the driveway.","car",0
+"The mirror told her she was beautiful.","mirror",1
+"The mirror was cracked in the corner.","mirror",0
+"The storm screamed through the valley.","storm",1
+"The storm lasted for three days.","storm",0
+"The computer calculated the trajectory.","computer",1
+"The computer was left on all night.","computer",0
+"The shadows crept across the floor.","shadows",1
+"The shadows were long in the afternoon.","shadows",0
+"The statue wept for the fallen city.","statue",1
+"The statue was carved from white marble.","statue",0
+"The sword sang in the heat of battle.","sword",1
+"The sword was blunt and rusted.","sword",0
+"The house breathed a sigh of relief.","house",1
+"The house was built in the late Victorian era.","house",0
+"Sarah whispered a secret.","Sarah",1
+"The book was written by Sarah.","Sarah",0
+"The sun smiled down on the children.","sun",1
+"The sun was blocked by heavy clouds.","sun",0
+"The cat demanded its dinner.","cat",1
+"The cat's fur was matted and dirty.","cat",0
+"The mountain stood watch over the village.","mountain",1
+"The mountain was difficult to climb.","mountain",0
+"The scarecrow winked at the crow.","scarecrow",1
+"The scarecrow was made of straw and old rags.","scarecrow",0
+"The forest whispered ancient secrets.","forest",1
+"The forest was dense and dark.","forest",0
+"The robot sighed at the error.","robot",1
+"The robot was made of recycled scrap metal.","robot",0
+"The child laughed at the joke.","child",1
+"The child's toy was lost in the park.","child",0
+"The doll blinked her eyes.","doll",1
+"The doll sat on the dusty shelf.","doll",0
+"The engine coughed and died.","engine",1
+"The engine was leaking oil.","engine",0
+"The moon followed them home.","moon",1
+"The moon was a thin crescent tonight.","moon",0
+"The stranger tipped his hat.","stranger",1
+"The stranger's name was unknown to all.","stranger",0
+"The blacksmith hammered with fury.","blacksmith",1
+"The blacksmith's forge was glowing red.","blacksmith",0
+"The taxi driver cursed the traffic.","driver",1
+"The driver's license had expired.","driver",0
+"The knight charged toward the line.","knight",1
+"The knight's shield was dented.","knight",0
+"The billboard winked at the commuters.","billboard",1
+"The billboard advertised a new movie.","billboard",0
+"The Victorian governess sighed deeply.","governess",1
+"The governess's room was on the third floor.","governess",0
+"The skyscraper watched the city sleep.","skyscraper",1
+"The skyscraper was made of glass and steel.","skyscraper",0
+"The chimney sweep climbed the roof.","sweep",1
+"The sweep's soot covered the floor.","sweep",0
+"The subway train screamed into the station.","train",1
+"The train arrived at exactly noon.","train",0
+"The monk illuminated the manuscript.","monk",1
+"The monk's robe was made of wool.","monk",0
+"The ATM swallowed the credit card.","ATM",1
+"The ATM was located around the corner.","ATM",0
+"The tavern keeper served the ale.","keeper",1
+"The keeper's cat sat by the fire.","keeper",0
+"The streetlight flickered nervously.","streetlight",1
+"The streetlight illuminated the sidewalk.","streetlight",0
+"The empress signed the decree.","empress",1
+"The empress's crown was heavy with jewels.","empress",0
+"The traffic light glared red.","light",1
+"The light turned green after a minute.","light",0
+"The archer notched an arrow.","archer",1
+"The archer's bow was made of yew.","archer",0
+"The coffee machine groaned in protest.","machine",1
+"The machine was broken for a week.","machine",0
+"The pioneer cleared the land.","pioneer",1
+"The pioneer's wagon was stuck in mud.","pioneer",0
+"The apartment building groaned in the wind.","building",1
+"The building was ten stories tall.","building",0
+"The detective lit a cigarette.","detective",1
+"The detective's office was dark and smoky.","detective",0
+"The fountain sang a bubbly tune.","fountain",1
+"The fountain was dry all summer.","fountain",0
+"The peasant begged for mercy.","peasant",1
+"The peasant's hut was made of mud.","peasant",0
+"The elevator waited patiently for him.","elevator",1
+"The elevator was stuck between floors.","elevator",0
+"The duchess danced until dawn.","duchess",1
+"The duchess's portrait was very old.","duchess",0
+"The bus hissed as it stopped.","bus",1
+"The bus was full of students.","bus",0
+"The ghost whispered my name.","ghost",1
+"The ghost story was quite scary.","ghost",0
+"The security camera followed his movement.","camera",1
+"The camera was mounted on the ceiling.","camera",0
+"The butler hid the evidence.","butler",1
+"The butler's pantry was neatly organized.","butler",0
+"The walls seemed to listen to their conversation.","walls",1
+"The walls were painted a dull grey.","walls",0
+"The phantom played a haunting melody.","phantom",1
+"The phantom limb caused him pain.","phantom",0
+"The CEO fired the entire board.","CEO",1
+"The CEO's office was on the top floor.","CEO",0
+"The scarecrow climbed down from its post.","scarecrow",1
+"The scarecrow's hat was missing.","scarecrow",0
+"The printer spat out pages in a panic.","printer",1
+"The printer was out of magenta ink.","printer",0
+"The detective's shadow lurked behind the curtain.","shadow",1
+"The shadow was cast by a tall lamp.","shadow",0
+"The monster roared in the basement.","monster",1
+"The monster movie was a box office hit.","monster",0
+"The typewriter tapped away by itself.","typewriter",1
+"The typewriter was a vintage Smith Corona.","typewriter",0
+"The librarian shushed the noisy teenagers.","librarian",1
+"The librarian's desk was covered in bookmarks.","librarian",0
+"The doll's eyes tracked him across the room.","doll",1
+"The doll was a gift from her grandmother.","doll",0
+"The intern brought coffee for everyone.","intern",1
+"The intern's application was rejected.","intern",0
+"The old house groaned in agony.","house",1
+"The house had four bedrooms.","house",0
+"The witness pointed at the suspect.","witness",1
+"The witness's statement was recorded.","witness",0
+"The statue's hand reached out to grab him.","statue",1
+"The statue stood in the center of the park.","statue",0
+"The fire devoured the wooden shack.","fire",1
+"The fire was extinguished by the rain.","fire",0
+"The manager complained about the late shipment.","manager",1
+"The manager's badge was pinned to his shirt.","manager",0
+"The mirror showed a face that wasn't mine.","mirror",1
+"The mirror's surface was dusty.","mirror",0
+"The computer virus stole the passwords.","virus",1
+"The virus was detected by the software.","virus",0
+"The skeleton danced in the moonlight.","skeleton",1
+"The skeleton was used for biology class.","skeleton",0
+"The clock's hands reached for his throat.","clock",1
+"The clock's battery died at midnight.","clock",0
+"The nurse checked the patient's vitals.","nurse",1
+"The nurse's station was empty.","nurse",0
+"Zeus hurled a lightning bolt in fury.","Zeus",1
+"The temple of Zeus was made of marble.","Zeus",0
+"The river decided to flood the village.","river",1
+"The river was two hundred miles long.","river",0
+"The goddess granted him three wishes.","goddess",1
+"The goddess's statue was covered in gold.","goddess",0
+"The mountain refused to let the climbers pass.","mountain",1
+"The mountain's peak was covered in snow.","mountain",0
+"Poseidon calmed the raging seas.","Poseidon",1
+"The trident of Poseidon was lost at sea.","Poseidon",0
+"The forest moved its trees to block the path.","forest",1
+"The forest was home to many rare birds.","forest",0
+"The Valkyrie carried the hero to Valhalla.","Valkyrie",1
+"The Valkyrie's armor was light and strong.","Valkyrie",0
+"The volcano cleared its throat and spat fire.","volcano",1
+"The volcano had been dormant for centuries.","volcano",0
+"The Great Spirit spoke through the wind.","Spirit",1
+"The spirit of the law must be followed.","spirit",0
+"The ancient oak tree shared its wisdom.","oak",1
+"The oak was chopped down for firewood.","oak",0
+"Anubis weighed the heart of the deceased.","Anubis",1
+"The tomb of Anubis was hidden in the sand.","Anubis",0
+"The desert shifted its dunes to confuse them.","desert",1
+"The desert was hot and dry during the day.","desert",0
+"The dryad emerged from the bark of the tree.","dryad",1
+"The dryad's myth was told by the fire.","dryad",0
+"The sea swallowed the ship whole.","sea",1
+"The sea was calm and flat like a mirror.","sea",0
+"The phoenix rose from the ashes and sang.","phoenix",1
+"The phoenix feathers were bright orange.","phoenix",0
+"The earth trembled with every step he took.","earth",1
+"The earth was composed of clay and rock.","earth",0
+"Medusa turned the soldiers into stone.","Medusa",1
+"The head of Medusa was painted on the shield.","Medusa",0
+"The winter gripped the land with icy fingers.","winter",1
+"The winter lasted from November to March.","winter",0
+"The sphinx asked a riddle to the traveler.","sphinx",1
+"The sphinx's nose was broken off long ago.","sphinx",0
+"The thunder rumbled an ominous warning.","thunder",1
+"The thunder followed the flash of lightning.","thunder",0
+"Odin traded his eye for knowledge.","Odin",1
+"The stories of Odin are found in the Eddas.","Odin",0
+"The moon hid behind a cloud in shame.","moon",1
+"The moon orbits the earth every month.","moon",0
+"The titan carried the sky on his shoulders.","titan",1
+"The titan's strength was legendary in the city.","titan",0
+"The wind died down eventually.","wind",0
+"The wind died with a final shriek.","wind",1
+"The stars watched the lonely traveler.","stars",1
+"The stars were visible through the telescope.","stars",0
+"The mountain stood in their way.","mountain",0
+"The mountain refused to let them pass.","mountain",1
+"The ocean was restless tonight.","ocean",0
+"The ocean reached out to grab him.","ocean",1
+"The fire consumed the dry wood.","fire",0
+"The fire hungrily ate the village.","fire",1
+"The machine worked perfectly.","machine",0
+"The machine thought for a second.","machine",1
+"The blizzard was blinding.","blizzard",0
+"The blizzard chased them into the cave.","blizzard",1
+"The valley was silent.","valley",0
+"The valley held its breath.","valley",1
+"The car's headlights blinked twice.","car",1
+"The car's headlights were dimmed.","car",0
+"The door creaked open slowly.","door",0
+"The door nudged him forward.","door",1
+"The leaves danced in the breeze.","leaves",1
+"The leaves fell from the trees.","leaves",0
+"The statue pointed toward the hidden path.","statue",1
+"The statue was weathered by age.","statue",0
+"The knife slipped from his hand.","knife",0
+"The knife bit deep into his palm.","knife",1
+"The camera captured the thief.","camera",0
+"The camera followed her every move.","camera",1
+"The mirror showed a distorted reflection.","mirror",0
+"The mirror lied to her.","mirror",1
+"The clock ticked away the seconds.","clock",0
+"The clock mocked his lack of time.","clock",1
+"The forest swallowed the hikers.","forest",1
+"The hikers entered the forest.","forest",0
+"The sea roared at the sailors.","sea",1
+"The sailors sailed across the sea.","sea",0
+"The city never sleeps.","city",1
+"The city was built on a grid.","city",0
+"The house groaned in the wind.","house",1
+"The house was painted blue.","house",0
+"The abyss stared back.","abyss",1
+"The abyss was deep and dark.","abyss",0
+"The desert hid its secrets.","desert",1
+"The desert was mostly sand.","desert",0
+"The engine coughed and sputtered.","engine",0
+"The engine coughed to get my attention.","engine",1
+"The candle flickered in the draft.","candle",0
+"The candle flickered with nervous energy.","candle",1
+"The ruins stood silent and grey.","ruins",0
+"The ruins remembered the old kings.","ruins",1
+"The bridge groaned under the heavy truck.","bridge",0
+"The bridge groaned at the thought of more travelers.","bridge",1
+"The leaves shivered in the cold air.","leaves",0
+"The leaves shivered in fear of the coming winter.","leaves",1
+"The old radio hissed with static.","radio",0
+"The old radio hissed a warning.","radio",1
+"The door swung shut behind her.","door",0
+"The door slammed shut in a fit of pique.","door",1
+"The clouds gathered over the mountain.","clouds",0
+"The clouds gathered to plot their revenge.","clouds",1
+"The trap waited for a victim.","trap",1
+"The trap was set near the entrance.","trap",0
+"The sword thirsted for blood.","sword",1
+"The sword was forged in the fire.","sword",0
+"The vines strangled the oak tree.","vines",1
+"The vines grew along the wall.","vines",0
+"The locket held a secret.","locket",1
+"The locket was made of silver.","locket",0
+"The thunder barked at the lightning.","thunder",1
+"The thunder followed the flash.","thunder",0
+"The road wound through the hills.","road",0
+"The road led the travelers astray.","road",1
+"The lighthouse winked at the ships.","lighthouse",1
+"The lighthouse beam was visible for miles.","lighthouse",0
+"The wind whispered through the grass.","wind",1
+"The wind blew through the open window.","wind",0
+"His horse, Starlight, snorted at the mist.","horse",1
+"His horse, Starlight, snorted at the mist.","Starlight",1
+"An old woman stepped into the light.","woman",1
+"The wooden staff remained perfectly still.","staff",0
+"The captain, a brave man, led the charge.","captain",1
+"The captain, a brave man, led the charge.","man",1
+"The village, a cluster of small huts, was empty.","village",0
+"The village, a cluster of small huts, was empty.","huts",0
+"The sword, a family heirloom, sat in its case.","sword",0
+"The sword, a thirsty blade, cried for battle.","sword",1
+"The dog, a golden retriever, barked loudly.","dog",1
+"The car, a rusted heap, refused to start.","car",1
+"The car, a rusted heap, was parked outside.","car",0
+"The mist, a silent hunter, crawled up the cliffs.","mist",1
+"The mist, a cold vapor, filled the valley.","mist",0
+"Moneesh’s companion, a local thief, watched him.","companion",1
+"Moneesh’s companion, a local thief, watched him.","thief",1
+"The river, a raging beast, flooded the bank.","river",1
+"The river, a wide stream, flowed slowly.","river",0
+"The robot, a mechanical servant, bowed low.","robot",1
+"The robot, a silver box, sat on the table.","robot",0
+"The clock, a golden circle, hung on the wall.","clock",0
+"The clock, a relentless taskmaster, ticked away.","clock",1
+"The bird, a tiny sparrow, sang a song.","bird",1
+"The bird, a splash of color, flew past.","bird",0
+"His friend, the old sailor, laughed.","friend",1
+"His friend, the old sailor, laughed.","sailor",1
+"The tree, an ancient guardian, blocked the path.","tree",1
+"The tree, a large oak, provided shade.","tree",0
+"The bridge, a grumpy structure, groaned.","bridge",1
+"The bridge, a stone arch, spanned the river.","bridge",0
+"The mountain, a jagged peak, touched the clouds.","mountain",0
+"The mountain, a sleeping giant, breathed deeply.","mountain",1
+"The statue, a marble figure, stood in the hall.","statue",0
+"The statue, a weeping widow, shed a tear.","statue",1
+"The phone, a small device, was in her pocket.","phone",0
+"The phone, a noisy intruder, rang incessantly.","phone",1
+"The child, a young girl, smiled.","child",1
+"The child, a young girl, smiled.","girl",1
+"The storm, a violent force, destroyed the roof.","storm",0
+"The storm, an angry god, shrieked in the night.","storm",1
+"The shadow, a dark shape, followed him.","shadow",1
+"The shadow, a trick of the light, disappeared.","shadow",0
+"The wolf, a lone hunter, watched from the ridge.","wolf",1
+"The wolf, a gray animal, ran through the trees.","wolf",0
