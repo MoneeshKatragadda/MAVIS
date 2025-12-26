@@ -6,20 +6,14 @@ def generate_prompts(events):
         target = e['target']
         emotion = e['emotion']
         
-        # VISUAL FIXES
-        # If target is 'scene', don't write it.
-        # If action is 'be happy', format as 'Happy [Actor]'
-        
         base_desc = f"{actor} {action}"
         
         if target != 'scene':
-            # Ensure we don't double up prepositions
             if not any(target.startswith(p) for p in ['on', 'in', 'at', 'with']):
                 base_desc += f" {target}"
             else:
                 base_desc += f" {target}"
 
-        # Atmosphere injection based on emotion
         lighting = "cinematic lighting"
         if emotion == 'positive':
             lighting = "warm golden hour lighting, soft shadows"

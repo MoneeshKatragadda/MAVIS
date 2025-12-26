@@ -5,7 +5,6 @@ from transformers import pipeline
 import logging
 import re
 
-# Quiet transformers logging
 logging.getLogger("transformers").setLevel(logging.ERROR)
 
 print(">>> MAVIS: Loading NLP Models...")
@@ -24,11 +23,6 @@ except LookupError:
 # Sentiment Model
 sentiment_pipeline = pipeline("sentiment-analysis", model="distilbert-base-uncased-finetuned-sst-2-english")
 
-# --- CONFIGURATION ---
-
-# 1. VISUAL CONSISTENCY MAPPING
-# If the story says "You", we map it to "Julian" (or whoever the main char is).
-# For your new story, we can remove "The Protagonist" and stick to names.
 ACTOR_MAPPING = {
     'you': 'Julian',   # Map "You" to the specific character name
     'we': 'The Group',
@@ -82,7 +76,7 @@ def is_valid_actor(token):
 def extract_dialogue_content(sent):
     """Robust quote extraction."""
     text = sent.text
-    # Matches straight quotes "" and curly quotes “”
+
     matches = re.findall(r'["“](.*?)["”]', text)
     if not matches:
         # Fallback for simple quotes
@@ -95,7 +89,6 @@ def extract_events(text, memory):
     events = []
     doc = nlp(text)
     
-    # Context Memory: Remembers who acted last to assign "orphaned" dialogue
     last_active_actor = memory.get('last_actor', None)
     
     for sent in doc.sents:
@@ -164,17 +157,14 @@ def extract_events(text, memory):
                     'is_speech': action.split()[0].lower() in SPEECH_VERBS
                 })
 
-        # 2. Attach Dialogue (The Fix)
         if dialogue_text:
             attached = False
-            # A. Attach to speech verb (e.g. Silas said "...")
             for e in sent_events:
                 if e['is_speech']:
                     e['dialogue'] = dialogue_text
                     attached = True
                     break
             
-            # B. Attach to any valid actor in sentence (e.g. Silas smiled. "...")
             if not attached:
                 for e in sent_events:
                     if e['actor'] not in ATMOSPHERIC_AGENTS:
@@ -182,8 +172,6 @@ def extract_events(text, memory):
                         attached = True
                         break
             
-            # C. ORPHAN HANDLING: If NO actor found in sentence (e.g. "Is the money ready?"),
-            # attach to the LAST known actor from previous lines.
             if not attached and last_active_actor:
                 events.append({
                     'actor': last_active_actor,
